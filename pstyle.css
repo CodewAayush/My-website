@@ -1,0 +1,10 @@
+p{
+  height: 100px;
+  width: 100%;
+  display: block;
+  position: absolute;
+  font-size: 50px;
+  top:100px;
+  left: 0px;
+  color:#ffffff;
+}
